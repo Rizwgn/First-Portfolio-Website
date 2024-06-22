@@ -1,4 +1,4 @@
-🚀First Basic Portfolio Website🚀
+🚀First Portfolio Website🚀
 
 Created my first portfolio website using Javascript, HTML, CSS.
 
